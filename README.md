@@ -1,8 +1,4 @@
 # 特此审明，此项目是引用 杨波老师的项目，本人在这里有部修改，为了方便特放到自己的仓库中
-# Staffjoy教学版
-微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
-
-<img src="doc/images/bobo_promote.jpg" width="500" height="400">
 
 ## 课程资料PPT
 1. 第1章 [课程介绍和案例需求](https://github.com/spring2go/staffjoy-ppt/blob/master/doc/ppts/Chapter_01.pdf)
